@@ -49,6 +49,6 @@ cargo run --release
 
 📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
 📢 **Twitter:** [toptrendev](https://x.com/toptrendev)
-📢 **Discord Username:** toptrendev
+📢 **Discord:** [toptrendev](https://discord.com/users/648385188774019072)
 
 **Feel free to reach out me!**
