@@ -6,6 +6,10 @@ A high-performance **copy trading bot** built in **Rust** 🦀 for the **Solana*
 
 With integrated **Jito MEV support**, it prioritizes your transactions for faster confirmation — so you're never left behind.
 
+[![Twitter](https://img.shields.io/badge/Twitter-@toptrendev-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/toptrendev)
+[![Discord](https://img.shields.io/badge/Discord-toptrendev-black?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/648385188774019072)
+[![Telegram](https://img.shields.io/badge/Telegram-@toptrendev_641-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/toptrendev_641)
+
 ---
 
 ## 🛠 Key Features
@@ -44,13 +48,3 @@ UNIT_LIMIT=
 cargo build --release
 cargo run --release
 ```
-
-## 📬 Contact & Community
-
-📢 **Telegram:** [@toptrendev_146](https://t.me/toptrendev_146)  
-
-📢 **Twitter:** [toptrendev](https://x.com/toptrendev) 
-
-📢 **Discord:** [toptrendev](https://discord.com/users/648385188774019072)
-
-**Feel free to reach out me!**
